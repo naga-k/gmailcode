@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.gmailcode/
