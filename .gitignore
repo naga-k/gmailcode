@@ -9,3 +9,8 @@ build/
 .flutter-plugins-dependencies
 pubspec.lock
 .gmailcode/
+.claude/settings.local.json
+.claude/worktrees/
+recovery.html
+sidecar/*.mjs
+sidecar/*.cjs
